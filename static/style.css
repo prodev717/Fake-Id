@@ -1,0 +1,12 @@
+body{
+	background-color:rgb(50,50,50);
+	color:rgb(255,255,255);
+}
+.cen{
+	display:block;
+	margin:auto;
+	text-align:center;
+}
+.img{
+	border-radius:50px;
+}
